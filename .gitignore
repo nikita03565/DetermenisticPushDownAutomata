@@ -259,3 +259,16 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+*.sln
+*.sln
+*.vcxproj
+*.vcxproj
+*.sln
+*.filters
+DetermenisticPushdownAutomata/DetermenisticPushdownAutomata.vcxproj
+DetermenisticPushdownAutomata.sln
+DetermenisticPushdownAutomata/DetermenisticPushdownAutomata.vcxproj
+*.sln
+DetermenisticPushdownAutomata/DetermenisticPushdownAutomata.vcxproj
+DetermenisticPushdownAutomata.sln
+DetermenisticPushdownAutomata/DetermenisticPushdownAutomata.vcxproj.filters
